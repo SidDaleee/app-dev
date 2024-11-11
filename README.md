@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ac60c64-bdb7-4a67-9500-dd42dea8ce05)# app-dev
+app-dev
 My First Repository
 **One Piece**
 ```
